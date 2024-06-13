@@ -2,7 +2,7 @@
 ### HOW TO RUN THE PROGRAM
 - Clone the repository by running the following on terminal. I made this program on PyCharm, but this can be edited on VSCode and Text Editor as well if needed. 
 
-       git clone
+       git clone https://github.com/Yukaryu/PythonPrograms.git
        
   - Run the program with
 
