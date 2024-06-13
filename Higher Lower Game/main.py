@@ -21,8 +21,6 @@ def play_game():
   A = get_random_account()
   B = get_random_account()
 
-  print(A, B)
-
   while keep_playing:
     A = B
     B = get_random_account()
@@ -73,4 +71,3 @@ def play_game():
 while keep_playing:
   play_game()
 
-#what i need to work on making b a for the next round
